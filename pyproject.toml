@@ -1,0 +1,46 @@
+[tool.poetry]
+name = "obsidian-bot"
+version = "0.1.0"
+description = "A Python-based tool that integrates Obsidian's knowledge management capabilities with LangChain's AI technologies to provide an intelligent and dynamic information retrieval system."
+authors = ["Eric Hackathorn <Eric.J.Hackathorn@noaa.gov>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.urls]
+Homepage = "https://github.com/NOAA-GSL/obsidian-bot"
+Documentation = "https://github.com/NOAA-GSL/obsidian-bot/blob/main/README.md"
+Source = "https://github.com/NOAA-GSL/obsidian-bot"
+Tracker = "https://github.com/NOAA-GSL/obsidian-bot/issues"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+langchain = "^0.1.16"
+obsidiantools = "^0.10.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.1.1"
+ruff = "^0.3.7"
+coverage = "^7.4.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-s -v --durations=0"
+cache_dir = ".cache/pytest_cache"
+
+[tool.coverage.run]
+branch = true
+source = ["src"]
+command_line = "-m pytest"
+
+[tool.coverage.report]
+show_missing = true
+
+[tool.coverage.xml]
+output = "coverage.xml"
+
+[tool.poetry.scripts]
+obsidian-bot = "src.obsidian_bot:main"
