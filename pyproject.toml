@@ -16,6 +16,7 @@ Tracker = "https://github.com/NOAA-GSL/obsidian-bot/issues"
 python = "^3.9"
 langchain = "^0.1.16"
 obsidiantools = "^0.10.0"
+langchain-community = "^0.0.33"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.1.1"

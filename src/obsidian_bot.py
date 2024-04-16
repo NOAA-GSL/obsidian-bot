@@ -1,8 +1,9 @@
 import langchain as lc
 from langchain.chains import OpenAIChain
 from langchain.schema import LLMConfig
-from langchain.utils import load_text
+from langchain_community.document_loaders import ObsidianLoader
 
+# https://python.langchain.com/docs/integrations/document_loaders/obsidian/
 # Path to your Obsidian Vault
 OBSIDIAN_VAULT_PATH = 'path/to/your/obsidian/vault'
 
@@ -14,7 +15,9 @@ def load_obsidian_data(vault_path):
     """
     # Example: Load all markdown files as a single string of text
     # You might want to process these files to extract structured data or important segments
-    data = load_text(vault_path, extension="md")
+    #data = load_text(vault_path, extension="md")
+    loader = ObsidianLoader(vault_path)
+    data = loader.load()
     return data
 
 def setup_langchain(data):

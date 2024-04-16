@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5d5623f27e51a8d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3afe4804bb09a7ce",
@@ -173,9 +160,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d5623f27e51a8d7",
+  "active": "b709d2b454342e50",
   "lastOpenFiles": [
-    "test.md",
-    "Welcome.md"
+    "Welcome.md",
+    "test.md"
   ]
 }
