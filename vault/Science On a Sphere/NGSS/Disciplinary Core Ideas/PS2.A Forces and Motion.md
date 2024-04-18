@@ -1,0 +1,2 @@
+- Pushes and pulls can have different strengths and directions. ([[K-PS2-1]]),([[K-PS2-2]])
+- Pushing or pulling on an object can change the speed or direction of its motion and can start or stop it. ([[K-PS2-1]]),([[K-PS2-2]])

@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Date Added": "date",
+    "Platforms": "multitext",
+    "Categories": "multitext",
+    "Major Categories": "multitext",
+    "Minor Categories": "multitext",
+    "Published": "checkbox"
+  }
+}

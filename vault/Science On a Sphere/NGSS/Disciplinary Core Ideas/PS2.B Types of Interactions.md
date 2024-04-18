@@ -1,0 +1,1 @@
+- When objects touch or collide, they push on one another and can change motion. ([[K-PS2-1]])

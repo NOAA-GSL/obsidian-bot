@@ -1,0 +1,1 @@
+- A bigger push or pull makes things speed up or slow down more quickly. (secondary to [[K-PS2-1]])

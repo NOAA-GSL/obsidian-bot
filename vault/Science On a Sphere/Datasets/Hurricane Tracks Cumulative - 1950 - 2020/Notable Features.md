@@ -1,0 +1,3 @@
+- All recorded hurricanes worldwide from 1950 - 2020 are included
+- No hurricanes cross the equator
+- Very few hurricanes make it to South America because of wind shear patterns.

@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "dbbd68702ba6e40a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b81ebef4397385e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c13c2c81a830011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NGSS/Elementary/Kindergarten/K. Forces and Interactions - Pushes and Pulls/K. Forces and Interactions - Pushes and Pulls.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6b73779032bc850",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcd0d3c04cb44c00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b33ee755737c6559",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d66da82729ecf915",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b29ebe096fcd9a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 393.5
+  },
+  "right": {
+    "id": "8419e0018b2cc175",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1e8b794e0d17c00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5779cef0af7f21f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a802a2646178d46b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NGSS/Elementary/Kindergarten/K. Forces and Interactions - Pushes and Pulls/K. Forces and Interactions - Pushes and Pulls.md"
+              }
+            }
+          },
+          {
+            "id": "3e0f1007f1426521",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a094ec4e7205e544",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NGSS/Elementary/Kindergarten/K. Forces and Interactions - Pushes and Pulls/K. Forces and Interactions - Pushes and Pulls.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba1afa47ddd597be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NGSS/Elementary/Kindergarten/K. Forces and Interactions - Pushes and Pulls/K. Forces and Interactions - Pushes and Pulls.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
+    }
+  },
+  "active": "1c13c2c81a830011",
+  "lastOpenFiles": [
+    "NGSS/AllTopic.pdf",
+    "NGSS/Elementary/Kindergarten/K. Forces and Interactions - Pushes and Pulls/K. Forces and Interactions - Pushes and Pulls.md",
+    "NGSS/Elementary/Kindergarten/K. Forces and Interactions - Pushes and Pulls/Disciplinary Core Ideas.md",
+    "NGSS/Elementary/Kindergarten/K. Forces and Interactions - Pushes and Pulls/Crosscutting Concepts.md",
+    "NGSS/Elementary/Kindergarten/K. Forces and Interactions - Pushes and Pulls/Science and Engineering Practices.md",
+    "NGSS/Next Generation Science Standards.md",
+    "NGSS/Conceptual Framework/13165-1.pdf",
+    "NGSS/NGSS Standards.md",
+    "NGSS/Conceptual Framework",
+    "Untitled",
+    "NGSS/Elementary/Kindergarten/K-PS2-1.md",
+    "Datasets/Hurricane Tracks Cumulative - 1950 - 2020.md",
+    "NGSS/Elementary/Kindergarten/Kindergarten.md",
+    "NGSS/Elementary/Elementary Standards.md",
+    "NGSS/Crosscutting Concepts/Cause and Effect.md",
+    "NGSS/Crosscutting Concepts",
+    "NGSS/Disciplinary Core Ideas/PS2.A Forces and Motion.md",
+    "NGSS/Elementary/Kindergarten/K. Forces and Interactions - Pushes and Pulls",
+    "NGSS/Elementary/Kindergarten/K-PS2-2.md",
+    "Disciplinary Core Ideas",
+    "NGSS/Disciplinary Core Ideas/LS1.C Organization for Matter and Energy Flow in Organisms.md",
+    "NGSS/Disciplinary Core Ideas/PS2.B Types of Interactions.md",
+    "NGSS/Disciplinary Core Ideas/PS3.C Relationship Between Energy and Forces.md",
+    "NGSS/Disciplinary Core Ideas/ETS1.A Defining Engineering Problems.md",
+    "NGSS/Disciplinary Core Ideas",
+    "NGSS/Elementary/Kindergarten/K.Forces and Interactions - Pushes and Pulls.md",
+    "NGSS/Elementary/Kindergarten",
+    "NGSS/Elementary",
+    "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/Education.md",
+    "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/Description.md",
+    "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/hurricane_tracks_thunbnail.jpg",
+    "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/Data.md",
+    "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/Notable Features.md",
+    "Datasets/Notable Features.md",
+    "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/Legend.md",
+    "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/Additional Information.md",
+    "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/color_bar.jpg"
+  ]
+}

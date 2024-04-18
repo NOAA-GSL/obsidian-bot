@@ -1,0 +1,1 @@
+- A situation that people want to change or create can be approached as a problem to be solved through engineering. Such problems may have many acceptable solutions. (secondary to [[K-PS2-2]])
