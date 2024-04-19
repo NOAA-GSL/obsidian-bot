@@ -1,0 +1,1 @@
+Patterns in the natural and human designed world can be observed and used as evidence. ([[K-LS1-1]])

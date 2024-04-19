@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1c13c2c81a830011",
+            "id": "b34e2e3e197985b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NGSS/Elementary/Kindergarten/K. Forces and Interactions - Pushes and Pulls/K. Forces and Interactions - Pushes and Pulls.md",
+                "file": "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/Description.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47590c87b4bd2099",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NGSS/Disciplinary Core Ideas/ETS1.B Developing Possible Solutions.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NGSS/Elementary/Kindergarten/K. Forces and Interactions - Pushes and Pulls/K. Forces and Interactions - Pushes and Pulls.md"
+                "file": "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/Description.md"
               }
             }
           },
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NGSS/Elementary/Kindergarten/K. Forces and Interactions - Pushes and Pulls/K. Forces and Interactions - Pushes and Pulls.md",
+                "file": "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/Description.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,18 +143,26 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NGSS/Elementary/Kindergarten/K. Forces and Interactions - Pushes and Pulls/K. Forces and Interactions - Pushes and Pulls.md",
+                "file": "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/Description.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "52ac211627d4038e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 477.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,44 +175,44 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "1c13c2c81a830011",
+  "active": "b34e2e3e197985b7",
   "lastOpenFiles": [
-    "NGSS/AllTopic.pdf",
-    "NGSS/Elementary/Kindergarten/K. Forces and Interactions - Pushes and Pulls/K. Forces and Interactions - Pushes and Pulls.md",
-    "NGSS/Elementary/Kindergarten/K. Forces and Interactions - Pushes and Pulls/Disciplinary Core Ideas.md",
-    "NGSS/Elementary/Kindergarten/K. Forces and Interactions - Pushes and Pulls/Crosscutting Concepts.md",
-    "NGSS/Elementary/Kindergarten/K. Forces and Interactions - Pushes and Pulls/Science and Engineering Practices.md",
-    "NGSS/Next Generation Science Standards.md",
-    "NGSS/Conceptual Framework/13165-1.pdf",
-    "NGSS/NGSS Standards.md",
-    "NGSS/Conceptual Framework",
-    "Untitled",
-    "NGSS/Elementary/Kindergarten/K-PS2-1.md",
     "Datasets/Hurricane Tracks Cumulative - 1950 - 2020.md",
-    "NGSS/Elementary/Kindergarten/Kindergarten.md",
-    "NGSS/Elementary/Elementary Standards.md",
-    "NGSS/Crosscutting Concepts/Cause and Effect.md",
-    "NGSS/Crosscutting Concepts",
-    "NGSS/Disciplinary Core Ideas/PS2.A Forces and Motion.md",
-    "NGSS/Elementary/Kindergarten/K. Forces and Interactions - Pushes and Pulls",
-    "NGSS/Elementary/Kindergarten/K-PS2-2.md",
-    "Disciplinary Core Ideas",
-    "NGSS/Disciplinary Core Ideas/LS1.C Organization for Matter and Energy Flow in Organisms.md",
-    "NGSS/Disciplinary Core Ideas/PS2.B Types of Interactions.md",
-    "NGSS/Disciplinary Core Ideas/PS3.C Relationship Between Energy and Forces.md",
-    "NGSS/Disciplinary Core Ideas/ETS1.A Defining Engineering Problems.md",
-    "NGSS/Disciplinary Core Ideas",
-    "NGSS/Elementary/Kindergarten/K.Forces and Interactions - Pushes and Pulls.md",
-    "NGSS/Elementary/Kindergarten",
-    "NGSS/Elementary",
-    "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/Education.md",
-    "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/Description.md",
-    "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/hurricane_tracks_thunbnail.jpg",
-    "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/Data.md",
-    "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/Notable Features.md",
-    "Datasets/Notable Features.md",
+    "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/Attachments",
     "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/Legend.md",
     "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/Additional Information.md",
-    "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/color_bar.jpg"
+    "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/Data.md",
+    "NGSS/Crosscutting Concepts/Cause and Effect.md",
+    "NGSS/Elementary/Kindergarten/K. Forces and Interactions - Pushes and Pulls/Crosscutting Concepts.md",
+    "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/Crosscutting Concepts.md",
+    "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/Education.md",
+    "NGSS/Elementary/Kindergarten/K. Interdependent Relationships in Ecosystems - Animals, Plants, and Their Environment/Disciplinary Core Ideas.md",
+    "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/Disciplinary Core Ideas.md",
+    "NGSS/Disciplinary Core Ideas/ETS1.B Developing Possible Solutions.md",
+    "NGSS/AllTopic.pdf",
+    "NGSS/Disciplinary Core Ideas/ESS3.D Global Climate Change.md",
+    "NGSS/Middle School/MS-ESS3-2.md",
+    "NGSS/Disciplinary Core Ideas/ESS3.C Human Impacts on Earth Systems.md",
+    "NGSS/Disciplinary Core Ideas/ESS3.B Natural Hazards.md",
+    "NGSS/Disciplinary Core Ideas/ESS3.A Natural Resources.md",
+    "NGSS/Disciplinary Core Ideas/ESS2.D Weather and Climate.md",
+    "NGSS/Disciplinary Core Ideas/ESS2.B Plate Tectonics and Large-Scale System Interactions.md",
+    "NGSS/Disciplinary Core Ideas/ESS2.A Earth Materials and Systems.md",
+    "NGSS/Disciplinary Core Ideas/ESS1.B Earth and the Solar System.md",
+    "NGSS/Disciplinary Core Ideas/ETS1.A Defining Engineering Problems.md",
+    "NGSS/Disciplinary Core Ideas/LS1.C Organization for Matter and Energy Flow in Organisms.md",
+    "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/NGSS.md",
+    "NGSS/High School/HS-ESS2-4.md",
+    "NGSS/High School",
+    "NGSS/Elementary/Kindergarten/K-ESS3-3.md",
+    "NGSS/Middle School",
+    "Untitled",
+    "Theory of Change/ELP_ToC_Report.pdf",
+    "Theory of Change",
+    "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/Attachments/Hurricane Tracks 8.5x11x2.pdf",
+    "NGSS/Elementary/Kindergarten/K. Interdependent Relationships in Ecosystems - Animals, Plants, and Their Environment",
+    "NGSS/Conceptual Framework/13165-1.pdf",
+    "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/Attachments/hurricane_tracks_thunbnail.jpg",
+    "Datasets/Hurricane Tracks Cumulative - 1950 - 2020/Attachments/color_bar.jpg"
   ]
 }

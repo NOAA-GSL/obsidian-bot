@@ -1,0 +1,1 @@
+ - Seasonal patterns of sunrise and sunset can be observed, described, and predicted. (1-ESS1-2)

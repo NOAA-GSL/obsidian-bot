@@ -1,0 +1,1 @@
+ - Some kinds of severe weather are more likely than others in a given region. Weather scientists forecast severe weather so that the communities can prepare for and respond to these events. (K-ESS3-2)

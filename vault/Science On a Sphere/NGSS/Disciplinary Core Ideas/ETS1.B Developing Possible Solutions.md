@@ -1,0 +1,1 @@
+ - Designs can be conveyed through sketches, drawings, or physical models. These representations are useful in communicating ideas for a problem’s solutions to other people. (secondary to K-ESS3-3)

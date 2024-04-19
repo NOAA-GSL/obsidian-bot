@@ -1,0 +1,1 @@
+ - Living things need water, air, and resources from the land, and they live in places that have the things they need. Humans use natural resources for everything they do. (K-ESS3-1)

@@ -1,0 +1,5 @@
+Collect data to provide evidence for how the motions and complex interactions of air masses result in changes in weather conditions. 
+
+**Clarification Statement**: Emphasis is on how air masses flow from regions of high pressure to low pressure, causing weather (defined by temperature, pressure, humidity, precipitation, and wind) at a fixed location to change over time, and how sudden changes in weather can result when different air masses collide. Emphasis is on how weather can be predicted within probabilistic ranges. Examples of data can be provided to students (such as weather maps, diagrams, and visualizations) or obtained through laboratory experiments (such as with condensation).
+
+**Assessment Boundary**: Assessment does not include recalling the names of cloud types or weather symbols used on weather maps or the reported diagrams from weather stations.

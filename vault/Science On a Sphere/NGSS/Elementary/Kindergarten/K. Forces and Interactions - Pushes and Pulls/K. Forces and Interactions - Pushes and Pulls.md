@@ -7,11 +7,11 @@ Students who demonstrate understanding can:
 
 The performance expectations above were developed using the following elements from the NRC document A Framework for K-12 Science Education:
 
-![[Science and Engineering Practices]]
+![[NGSS/Elementary/Kindergarten/K. Forces and Interactions - Pushes and Pulls/Science and Engineering Practices]]
 
-![[Disciplinary Core Ideas]]
+![[NGSS/Elementary/Kindergarten/K. Forces and Interactions - Pushes and Pulls/Disciplinary Core Ideas]]
 
-![[Crosscutting Concepts]]
+![[NGSS/Elementary/Kindergarten/K. Forces and Interactions - Pushes and Pulls/Crosscutting Concepts]]
 
 #### Connections to other DCIs in kindergarten: 
 **K.ETS1.A** ([[K-PS2-2]]); **K.ETS1.B** ([[K-PS2-2]])

@@ -8,6 +8,7 @@
     "Categories": "multitext",
     "Major Categories": "multitext",
     "Minor Categories": "multitext",
-    "Published": "checkbox"
+    "Published": "checkbox",
+    "Unitis": "multitext"
   }
 }

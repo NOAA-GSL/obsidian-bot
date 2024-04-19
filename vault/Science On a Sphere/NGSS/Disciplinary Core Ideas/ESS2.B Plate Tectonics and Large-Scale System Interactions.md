@@ -1,0 +1,1 @@
+ - Maps show where things are located. One can map the shapes and kinds of land and water in any area. (2-ESS2- 2) 

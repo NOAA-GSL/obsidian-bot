@@ -1,3 +1,1 @@
-All animals need food in order to live and grow. They obtain
-their food from plants or from other animals. Plants need water
-and light to live and grow. (K-LS1-1)
+All animals need food in order to live and grow. They obtain their food from plants or from other animals. Plants need water and light to live and grow. (K-LS1-1)

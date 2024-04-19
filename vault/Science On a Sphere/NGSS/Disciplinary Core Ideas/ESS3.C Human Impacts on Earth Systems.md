@@ -1,0 +1,1 @@
+ - Things that people do to live comfortably can affect the world around them. But they can make choices that reduce their impacts on the land, water, air, and other living things. (secondary to K-ESS2-2),(K-ESS3-3)

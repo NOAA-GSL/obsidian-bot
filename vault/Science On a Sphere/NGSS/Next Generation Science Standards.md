@@ -76,89 +76,21 @@
 ![[Elementary Standards]]
 
 ## K. Interdependent Relationships in Ecosystems: Animals, Plants, and Their Environment
+
 Students who demonstrate understanding can:
-K-LS1-1. Use observations to describe patterns of what plants and animals (including humans) need to survive. [Clarification
-Statement: Examples of patterns could include that animals need to take in food but plants do not; the different kinds of food needed by different types of animals;
-the requirement of plants to have light; and that all living things need water.]
-K-ESS2- 2. Construct an argument supported by evidence for how plants and animals (including humans) can change the
-environment to meet their needs. [Clarification Statement: Examples of plants and animals changing their environment could include a squirrel digs
-in the ground to hide its food and tree roots can break concrete.]
-K-ESS3-1. Use a model to represent the relationship between the needs of different plants or animals (including humans)
-and the places they live. [Clarification Statement: Examples of relationships could include that deer eat buds and leaves, therefore, they usually live in
-forested areas, and grasses need sunlight so they often grow in meadows. Plants, animals, and their surroundings make up a system.]
-K-ESS3-3. Communicate solutions that will reduce the impact of humans on the land, water, air, and/or other living things
-in the local environment.* [Clarification Statement: Examples of human impact on the land could include cutting trees to produce paper and using
-resources to produce bottles. Examples of solutions could include reusing paper and recycling cans and bottles.]
+
+![[K-LS1-1]]
+![[K-ESS2-2]]
+![[K-ESS3-1]]
+![[K-ESS3-3]]
+
 The performance expectations above were developed using the following elements from the NRC document A Framework for K-12 Science Education:
-```
-**Science and Engineering Practices**
 
-```
-Developing and Using Models
-Modeling in K–2 builds on prior experiences and progresses to
-include using and developing models (i.e., diagram, drawing,
-physical replica, diorama, dramatization, or storyboard) that
-represent concrete events or design solutions.
-▪ Use a model to represent relationships in the natural
-world. (K-ESS3- 1 )
-Analyzing and Interpreting Data
-Analyzing data in K–2 builds on prior experiences and
-progresses to collecting, recording, and sharing observations.
-▪ Use observations (firsthand or from media) to describe
-patterns in the natural world in order to answer scientific
-questions. (K-LS1- 1 )
-Engaging in Argument from Evidence
-Engaging in argument from evidence in K–2 builds on prior
-experiences and progresses to comparing ideas and
-representations about the natural and designed world(s).
-▪ Construct an argument with evidence to support a claim.
-(K-ESS2- 2 )
-Obtaining, Evaluating, and Communicating Information
-Obtaining, evaluating, and communicating information in K– 2
-builds on prior experiences and uses observations and texts to
-communicate new information.
-▪ Communicate solutions with others in oral and/or written
-forms using models and/or drawings that provide detail
-about scientific ideas. (K-ESS3- 3 )
-```
-### -----------------------------------------------
+![[NGSS/Elementary/Kindergarten/K. Interdependent Relationships in Ecosystems - Animals, Plants, and Their Environment/Science and Engineering Practices|Science and Engineering Practices]]
 
-```
-Connections to Nature of Science
-```
-```
-Scientific Knowledge is Based on Empirical Evidence
-▪ Scientists look for patterns and order when making
-observations about the world. (K-LS1- 1 )
-```
-**Disciplinary Core Ideas**
 
-```
-LS1.C: Organization for Matter and Energy Flow in
-Organisms
-▪ All animals need food in order to live and grow. They obtain
-their food from plants or from other animals. Plants need water
-and light to live and grow. (K-LS1- 1 )
-ESS2.E: Biogeology
-▪ Plants and animals can change their environment. (K-ESS2- 2 )
-ESS3.A: Natural Resources
-▪ Living things need water, air, and resources from the land, and
-they live in places that have the things they need. Humans use
-natural resources for everything they do. (K-ESS3- 1 )
-ESS3.C: Human Impacts on Earth Systems
-▪ Things that people do to live comfortably can affect the world
-around them. But they can make choices that reduce their
-impacts on the land, water, air, and other living things.
-(secondary to K-ESS2- 2 ),(K-ESS3- 3 )
-ETS1.B: Developing Possible Solutions
-▪ Designs can be conveyed through sketches, drawings, or
-physical models. These representations are useful in
-communicating ideas for a problem’s solutions to other people.
-(secondary to K-ESS3- 3 )
-```
 **Crosscutting Concepts**
 
-```
 Patterns
 ▪ Patterns in the natural and human
 designed world can be observed and
